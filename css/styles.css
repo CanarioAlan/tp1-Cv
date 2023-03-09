@@ -63,7 +63,9 @@ h3 {
   color: var(--primario);
 }
 span {
-  font-size: 2rem;
+   font-size: 3rem;
+  padding: 10px 5px 5px 15px;
+  font-weight: 200;
 }
 .contenedor {
   max-width: 120rem;
